@@ -1,4 +1,4 @@
-<h6>Este repositório foi desenvolvido durante a disciplina de Sistemas de Controle 2: </h6>
+<h6>ESP32 </h6>
 <h1 align="center">Desenvolvendo no ESP32 com o SDK ESP-IDF</h1>
 <h6 align="center">by Keiko Mori</h6>
 
