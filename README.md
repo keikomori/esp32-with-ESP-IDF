@@ -1,10 +1,12 @@
 <h6>Placa de desenvolvimento ESP32 (ESP8266) </h6>
-<h1 align="center">Desenvolvendo no ESP32 com o SDK ESP-IDF</h1>
+<h1 align="center">Desenvolvendo com o SDK ESP-IDF</h1>
 <h6 align="center">by Keiko Mori</h6>
 
-Como desenvolver projetos utilizando RTOS no ESP32 com o SDK ESP-IDF.
+O esp-idf é o framework que possibilita o uso dos recursos do FreeRTOS e foi desenvolvido pela Spressif.
 
-<h4>Instalação do SDK-IDF v4.2</h4>
+<h1>Instalação do SDK-IDF v4.2</h1>
+
+
 
 Acesse o site oficial da Spressif e faça o download do [esp-idf](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/windows-setup.html)
 
